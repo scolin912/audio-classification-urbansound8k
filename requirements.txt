@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+joblib
+soundfile
+scikit-learn
+librosa==0.10.0.post2
+torch==2.2.2
+torchaudio
+tqdm
+jupyterlab
+ipywidgets

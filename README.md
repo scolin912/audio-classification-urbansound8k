@@ -69,8 +69,7 @@ Both absolute and relative paths are supported.
 conda activate audio2
 
 # absolute path
-python predict.py examples/audio.mp3 --topk 3
-
+python predict.py /path/to/audio.mp3 --topk 5
 
 # relative path
 python predict.py ../samples/audio.wav --topk 3
